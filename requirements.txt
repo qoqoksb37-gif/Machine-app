@@ -1,5 +1,5 @@
 streamlit
 pandas
-opencv-python
+opencv-python-headless
 numpy
 plotly
